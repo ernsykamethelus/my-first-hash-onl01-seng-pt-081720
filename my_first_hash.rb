@@ -27,7 +27,7 @@ shipping_manifest=  {
                   "oil paintings" => 3
 }
 
-  shipping_manifest["key3"]= "value3"
+  shipping_manifest["key3"]
 
   # Look up the value of the "oil paintings" key in the shipping_manifest hash below
 
